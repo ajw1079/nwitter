@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 //import './index.css';  //지울 것
 import App from './App';
 //import reportWebVitals from './reportWebVitals';  //지울 것
-import firebase from "./firebase";
+import firebase from "./firebase.js";
 console.log(firebase);
 
 ReactDOM.render(
